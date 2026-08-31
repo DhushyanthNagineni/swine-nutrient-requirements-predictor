@@ -1,4 +1,4 @@
-# Swine Nutrient Requirements Predictor
+# Machine Learning-Based Prediction of Multiple Nutrient Requirements in Swine Using Growth Performance Indicators
 
 A simple calculator to estimate the daily nutritional needs of pigs based on their weight and growth stage. This tool helps farmers and researchers quickly determine the baseline feed requirements for their herd.
 
